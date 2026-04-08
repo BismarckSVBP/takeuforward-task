@@ -12,13 +12,13 @@ npm run dev
 Open [http://localhost:3000](http://localhost:3000)
 
 ## Features
-- 🗓 Wall calendar aesthetic with spiral binding & hero image per month
-- 📅 Date range selector (click start → click end) with visual highlight
-- 📝 Notes panel — monthly memo + sticky notes per date range (saved in localStorage)
-- 🎉 Mock Google Calendar events with color-coded dots
-- 📱 Fully responsive — desktop side-by-side, mobile stacked
-- 🌄 Month-themed hero images (Unsplash)
-- 🏖 Holiday markers
+- Wall calendar aesthetic with spiral binding & hero image per month
+- Date range selector (click start → click end) with visual highlight
+- Notes panel — monthly memo + sticky notes per date range (saved in localStorage)
+- Mock Google Calendar events with color-coded dots
+- Fully responsive — desktop side-by-side, mobile stacked
+- Month-themed hero images (Unsplash)
+- Holiday markers
 
 
 ## Scripts
